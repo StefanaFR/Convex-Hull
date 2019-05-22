@@ -1,0 +1,7 @@
+C:\Users\stefa\Desktop\ConvexHull\ConvexHull\bin\Debug\ConvexHull.exe.config
+C:\Users\stefa\Desktop\ConvexHull\ConvexHull\bin\Debug\ConvexHull.exe
+C:\Users\stefa\Desktop\ConvexHull\ConvexHull\bin\Debug\ConvexHull.pdb
+C:\Users\stefa\Desktop\ConvexHull\ConvexHull\obj\Debug\ConvexHull.csprojResolveAssemblyReference.cache
+C:\Users\stefa\Desktop\ConvexHull\ConvexHull\obj\Debug\ConvexHull.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\ConvexHull\ConvexHull\obj\Debug\ConvexHull.exe
+C:\Users\stefa\Desktop\ConvexHull\ConvexHull\obj\Debug\ConvexHull.pdb
